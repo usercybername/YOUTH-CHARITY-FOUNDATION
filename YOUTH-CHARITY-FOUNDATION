@@ -1,0 +1,7 @@
+echo "# YOUTH-CHARITY-FOUNDATION" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/usercybername/YOUTH-CHARITY-FOUNDATION.git
+git push -u origin main
